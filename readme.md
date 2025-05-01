@@ -1,6 +1,7 @@
-## heyooo everyone 
+## Welcome 2 git 
 
-## yo johnny here 
+## this is coming from dev-piy
+## yo johnny here
 
 
 i am adding this from feature0branch 
